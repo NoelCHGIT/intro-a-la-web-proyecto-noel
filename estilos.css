@@ -67,3 +67,19 @@ body{
     padding: 20px;
     text-align: justify;
 }
+.boton{
+    padding: 15px 20px;
+    margin: 30px 0;
+    color: white;
+    background: #66a3b8;
+    cursor: pointer;
+}
+.boton:hover{
+    background: #2d4249;
+}
+.titulo{
+    text-align: center;
+    padding: 20px 0 15px 0;
+    color: brown;
+    font-size: 30px;
+}
