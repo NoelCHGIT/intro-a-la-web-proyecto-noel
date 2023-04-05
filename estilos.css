@@ -57,6 +57,13 @@ body{
     text-align: center;
     border: 1px solid; 
 }
+.cajatres{
+    float: left;
+    width:1180px;
+    margin: 8px;
+    text-align: center;
+    border: 1px solid; 
+}
 .subtitulo{
     background: #8d99ae;
 }
