@@ -10,3 +10,15 @@ body{
     background: white;
     margin: 10px auto;
 }
+.superior {
+    background: #8d99ae;
+    overflow: hidden;
+}
+.logo{
+    float: left;
+    width: 300px;
+    padding: 20px;
+}
+.menu{
+    float: left;
+}
