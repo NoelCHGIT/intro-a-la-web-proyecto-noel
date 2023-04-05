@@ -58,3 +58,6 @@ body{
     padding: 20px;
 
 }
+.efecto:hover{
+    opacity: 0.9;
+}
