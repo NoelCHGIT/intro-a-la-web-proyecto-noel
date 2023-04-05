@@ -50,13 +50,20 @@ body{
     text-align: center;
     border: 1px solid;
 }
+.cajados{
+    float: left;
+    width:580px;
+    margin: 8px;
+    text-align: center;
+    border: 1px solid; 
+}
 .subtitulo{
     background: #8d99ae;
 }
 .servicio{
     color: white;
     text-align: center;
-    padding: 20px;
+    padding: 30px;
 
 }
 .efecto:hover{
@@ -64,7 +71,7 @@ body{
     cursor: pointer;
 }
 .contenido{
-    padding: 20px;
+    padding: 30px;
     text-align: justify;
 }
 .boton{
