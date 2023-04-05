@@ -38,3 +38,23 @@ body{
 .opciones li a:hover{
     background: #465063;
 }
+
+
+.cuerpo{
+    overflow: hidden;
+}
+.caja{
+    float: left;
+    width:380px;
+    margin: 10px;
+    text-align: center;
+}
+.subtitulo{
+    background: #8d99ae;
+}
+.servicio{
+    color: white;
+    text-align: center;
+    padding: 20px;
+
+}
