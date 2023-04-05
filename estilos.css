@@ -4,6 +4,7 @@
 }
 body{
     background: #0096c7;
+    font-family: Verdana;
 }
 .container{
     width: 1200px;
@@ -17,8 +18,23 @@ body{
 .logo{
     float: left;
     width: 300px;
-    padding: 20px;
+    padding: 10px;
 }
 .menu{
     float: left;
+    padding: 40px;
+}
+.opciones li{
+    float: left;
+    list-style: none;
+}
+.opciones li a{
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+
+}
+.opciones li a:hover{
+    background: #465063;
 }
