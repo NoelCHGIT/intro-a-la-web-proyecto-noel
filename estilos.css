@@ -12,7 +12,7 @@ body{
     margin: 10px auto;
 }
 .superior {
-    background: #68b0ab;
+    background: #40916c;
     overflow: hidden;
 }
 .logo{
@@ -60,7 +60,7 @@ body{
 
 }
 .opciones li a:hover{
-    background: #465063;
+    background: #05668d;
 }
 
 .cuerpo{
@@ -88,7 +88,7 @@ body{
     border: 1px solid; 
 }
 .subtitulo{
-    background: #8d99ae;
+    background: #118ab2;
 }
 .servicio{
     color: white;
@@ -117,11 +117,11 @@ body{
 .titulo{
     text-align: center;
     padding: 20px 0 15px 0;
-    color: brown;
+    color: #0466c8;
     font-size: 30px;
 }
 .pie{
-    background: #8d99ae;
+    background: #669bbc;
     overflow: hidden;
 }
 .izquierda{
