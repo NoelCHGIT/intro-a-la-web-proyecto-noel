@@ -1,0 +1,5 @@
+Lo que me gustó de este proyecto fue el reto de crear algo que surge de mi mente a algo tangible, que puedo observar y modificar. 
+En mi experiencia la programación ha sido un talón de Aquiles a lo largo de mi carrera universitaria, que a pesar de que es un aspecto importante no he sido el mejor de mi clase.
+Es por eso que lo que se me complicó fue el poder decidir que realizar, me pase unos cuantos días pensando que podría hacer, primero pensé en YouTube, luego Instagram y algunas otras, pero al final decidí darle un homenaje a mi universidad, la cual por ella estoy en este curso, asi que desarrolle un maquetado propio de cómo me gustaría que fuera la páginas principal. 
+Lo que se me facilitó paradójicamente fue la programación en HTML ya que, con ayuda de los senséis, los recursos proporcionados y algunas búsquedas propias pude desarrollar con satisfacción mi proyecto. 
+Lo único que no me gustó fue que no tuve el tiempo suficiente por mi parte para organizarme y poder realizar el proyecto con más anticipación ya que me vi algo estresado al programar el proyecto, a pesar de que no me tarde mucho tiempo haciéndolo, me hubiese gustado pulirlo un poco más.
